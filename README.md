@@ -6,6 +6,10 @@
    2. News Updates
    3. Simple Calculations 
    4. Capturing Photos
-   5. Joke
+   5. Tell's a Joke 
    6. Plays Music
+   7. Time Based Messages Through Whatsapp
+   8. To-Do List
+   9. Geolocation
+   10. Power off 
 ```   
